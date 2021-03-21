@@ -1,0 +1,14 @@
+{
+  "name": "tarefaiii",
+  "version": "1.0.0",
+  "description": "Terceira tarefa módulo backend",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wanderson Moreira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
